@@ -140,7 +140,7 @@ function draw(){
     text("About 1200 B.C.",x0[1]+60,height*0.7-5);
     text("1226 Characters in total",x0[1]+60,height*0.7+12);
     text("A.D.121",x0[1]+70,height*0.8-5);
-    text("1226 Characters in total",x0[1]+70,height*0.8+12);
+    text("9353 Characters in total",x0[1]+70,height*0.8+12);
     text("About A.D.1150",x0[1]+30,height*0.9-5);
     text("124235 Characters in total",x0[1]+30,height*0.9+12);
 
